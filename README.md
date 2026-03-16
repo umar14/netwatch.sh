@@ -44,7 +44,7 @@ A lightweight macOS CLI tool that displays active TCP connections enriched with 
 
 ## Installation
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/netwatch/main/netwatch.sh
+curl -O [https://raw.githubusercontent.com/YOUR_USERNAME/netwatch/main/netwatch.sh](https://github.com/umar14/netwatch.sh/blob/main/netwatch.sh)
 chmod +x netwatch.sh
 
 # Optionally install system-wide
